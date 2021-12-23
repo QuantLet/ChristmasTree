@@ -1,0 +1,6 @@
+pip install future
+pip install turtle
+pip install pillow
+
+#MacOS - for generating and saving eps files to png and then gif.
+brew install ghostscript
