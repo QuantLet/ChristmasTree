@@ -3,4 +3,4 @@ Published in: 'Quantlet Universe'
 Description: 'A pretty Christmas Tree Gif made in Python'
 Keywords: Quantlet, Christmas, Gif, Quantinar, Holidays
 Author: Raul Bag
-Submitted: 20211223
+Submitted: 2021.12.23
